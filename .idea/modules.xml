@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/web07_register/register.iml" filepath="D:/web07_register/register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web06_jdbc.iml" filepath="$PROJECT_DIR$/web06_jdbc.iml" />
+      <module fileurl="file://D:/web07_jdbc/web07_Template/web07_Template.iml" filepath="D:/web07_jdbc/web07_Template/web07_Template.iml" />
+      <module fileurl="file://D:/web08_xml/web08_xml.iml" filepath="D:/web08_xml/web08_xml.iml" />
+      <module fileurl="file://D:/web09_tomcat/web09_tomcat.iml" filepath="D:/web09_tomcat/web09_tomcat.iml" />
+      <module fileurl="file://D:/web10_http/web10_http.iml" filepath="D:/web10_http/web10_http.iml" />
+      <module fileurl="file://D:/web10_user/web10_user.iml" filepath="D:/web10_user/web10_user.iml" />
+      <module fileurl="file://D:/web11_Response/web11_Response.iml" filepath="D:/web11_Response/web11_Response.iml" />
+      <module fileurl="file://D:/web12_cookie/web12_cookie.iml" filepath="D:/web12_cookie/web12_cookie.iml" />
+      <module fileurl="file://D:/web13_jsp/web13_jsp.iml" filepath="D:/web13_jsp/web13_jsp.iml" />
+      <module fileurl="file://D:/web14_user/web14_user.iml" filepath="D:/web14_user/web14_user.iml" />
+    </modules>
+  </component>
+</project>
